@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Munish Chauhan 👋<br><br>🎓 Engineering Student passionate about Artificial Intelligence, Machine Learning,<br><br>🚀 Co-Founder of VYMRA (Vision Yielding Modern Revolutionary Advancements), where I focus on building AI-powered solutions and innovative technology products.<br><br>💻 Currently exploring:<br>- AI Agent Engineering<br>- Machine Learning<br>- Retrieval-Augmented Generation (RAG)<br>- Python Development<br>- Cloud & Deployment Technologies<br><br>🛠️ Tech Stack:<br>- Python<br>- Git & GitHub<br>- Docker<br>- AI SDKs & APIs<br>- Vector Databases<br><br>📚 Learning Journey:<br>- Python developer <br>- Linear Algebra for AI<br>- AI System Design<br>- Machine Learning Fundamentals<br><br>📫 Connect with me:<br>- LinkedIn: https://www.linkedin.com/in/munish-chauhan1/<br>- GitHub: https://github.com/GitMunish1
 
 
